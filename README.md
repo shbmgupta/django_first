@@ -1,1 +1,1 @@
-# django_first
+# django_class
